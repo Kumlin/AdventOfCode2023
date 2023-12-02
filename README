@@ -1,0 +1,3 @@
+Advent of Code 2023 solutions in Go. In some places I used concurrency patterns that were unneccessary for solving the problem because I wanted to refresh my memory on these patterns.
+
+Please feel free to critique/roast my code. I'd like to come back to these a few months from now and see if I can come up with better ways to solve some of these problems.
